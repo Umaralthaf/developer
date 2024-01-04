@@ -1,0 +1,31 @@
+
+.bodyy{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height:100vh;
+  Background-color:transparent;
+  
+
+  
+}
+* {
+    background-color:black;
+}
+
+    /* text.css */
+.Login {
+  /* Change to the desired background color */
+  color: #ffffff; /* Change to the desired text color */
+  padding: 10px 30px; /* Adjust padding as needed */
+ ; /* Remove default button border */
+  cursor: pointer; /* Add a pointer cursor on hover */
+  outline:2px solid green;
+ 
+  }
+.imges{
+    
+    display: flex;
+    text-align:center;
+    
+}
